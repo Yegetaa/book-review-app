@@ -13,3 +13,6 @@ The setBooks function is called with the data as an argument, which updates the 
 The if statement checks if the query state variable is truthy, which means a search query has been entered, and if so, the fetchBooks function is called.
 The map function iterates over the books state variable and returns an <ul> element for each book with its title as its child.
 
+# Deployed through Netfily 
+
+https://thunderous-stardust-e47c2d.netlify.app/
